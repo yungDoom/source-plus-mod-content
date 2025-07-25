@@ -1,0 +1,7 @@
+*.vpk
+*.dll
+*.lib
+*.exe
+*.pdb
+*.cache
+*.log

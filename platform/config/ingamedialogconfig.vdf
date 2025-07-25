@@ -1,0 +1,44 @@
+"UserConfigData"
+{
+	"Servers"
+	{
+		"DialogServerBrowser.res"
+		{
+			"GameTabs"
+			{
+				"InternetGames"
+				{
+					"gamelist"
+					{
+						"configVersion"		"2"
+						"lastBarWidth"		"605"
+						"0_hidden"		"0"
+						"0_width"		"16"
+						"1_hidden"		"0"
+						"1_width"		"16"
+						"2_hidden"		"0"
+						"2_width"		"0"
+						"3_hidden"		"0"
+						"3_width"		"113"
+						"4_hidden"		"1"
+						"4_width"		"64"
+						"5_hidden"		"0"
+						"5_width"		"112"
+						"6_hidden"		"0"
+						"6_width"		"80"
+						"7_hidden"		"0"
+						"7_width"		"60"
+						"8_hidden"		"0"
+						"8_width"		"90"
+						"9_hidden"		"0"
+						"9_width"		"119"
+					}
+				}
+			}
+			"xpos"		"96"
+			"ypos"		"432"
+			"wide"		"960"
+			"tall"		"594"
+		}
+	}
+}
