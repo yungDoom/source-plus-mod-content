@@ -14,3 +14,5 @@ voice_ban.dt
 *.dat
 *.vmt
 *.scr
+*.cache
+*.cfg
